@@ -1,0 +1,11 @@
+/* src/App.css */
+h2 {
+  color: #333;
+}
+select {
+  margin-bottom: 10px;
+}
+li {
+  cursor: pointer;
+  margin: 5px 0;
+}
